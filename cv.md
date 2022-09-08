@@ -50,4 +50,13 @@ function highAndLow(numbers){
 * English - Pre-intermediate
 * Ukrainian - Native
 * Russian  - Advanced
+ 
+---
 
+## Education
+
+* Vinnytsia State Pedagogical University named
+after Mykhailo Kotsyubynsky
+_Faculty of Physical Education and Sports_
+* Course Main academy
+Frontend developer
