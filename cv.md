@@ -1,5 +1,5 @@
 # Daria Nenahliadnova
---- 
+
 
 ## Contact information
 
@@ -8,7 +8,6 @@
 - **Telegram:** @dariaNenahliadnova
 - **GitHub:** [DaryaNenaglyadnova](адрес "https://github.com/DaryaNenaglyadnova")
 
----
 
 ## About me
 
@@ -23,7 +22,6 @@ and HTML. But I think my desire will allow
 me to develop my skills in object-oriented
 programming.</p>
 
----
 
 ## Skills
 
@@ -32,7 +30,6 @@ programming.</p>
 * Git, GitHub
 * Figma(for web development)
 
----
 
 ## Code examples
 
@@ -43,8 +40,6 @@ function highAndLow(numbers){
 };
 ```
 
----
-
 ## Education
 
 * Vinnytsia State Pedagogical University named
@@ -53,7 +48,6 @@ _Faculty of Physical Education and Sports_
 * Course Main academy
 Frontend developer
 
----
 
 ## Languages
 
