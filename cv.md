@@ -44,6 +44,7 @@ function highAndLow(numbers){
 ```
 
 ---
+
 ## Education
 
 * Vinnytsia State Pedagogical University named
