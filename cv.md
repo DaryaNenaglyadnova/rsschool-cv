@@ -3,10 +3,10 @@
 
 ## Contact information
 
-**Phone:** +38 063 5554444
-**E-mail:** darya.nenaglyadnova@gmail.com
-**Telegram:** @dariaNenahliadnova
-**GitHub:** [DaryaNenaglyadnova](адрес "https://github.com/DaryaNenaglyadnova")
+- **Phone:** +38 063 5554444 
+- **E-mail:** darya.nenaglyadnova@gmail.com
+- **Telegram:** @dariaNenahliadnova
+- **GitHub:** [DaryaNenaglyadnova](адрес "https://github.com/DaryaNenaglyadnova")
 
 ---
 
