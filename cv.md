@@ -45,5 +45,9 @@ function highAndLow(numbers){
 
 ---
 
+## Languages
 
+* English - Pre-intermediate
+* Ukrainian - Native
+* Russian  - Advanced
 
